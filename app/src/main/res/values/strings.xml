@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ping Pong</string>
+
+    <string name="state">Ready</string>
+
+    <string name="u_score">You Scored</string>
+    <string name="o_score">Opponent Scored</string>
+    <string name="mode_win">You Won</string>
+    <string name="mode_loss">You Lose</string>
+    <string name="mode_paused">Paused</string>
+</resources>
